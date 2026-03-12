@@ -92,3 +92,4 @@ Registries are set in `components.json`. The `@shadcn` registry is always built-
 - `${VAR}` references are resolved from environment variables.
 
 Community registry index: `https://ui.shadcn.com/r/registries.json`
+
