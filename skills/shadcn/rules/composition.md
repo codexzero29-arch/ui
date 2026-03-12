@@ -1,6 +1,6 @@
-# Component Composition
+ # Component Composition
 
-## Contents
+## Contents 
 
 - Items always inside their Group component
 - Callouts use Alert
