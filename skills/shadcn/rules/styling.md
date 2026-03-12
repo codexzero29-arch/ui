@@ -1,5 +1,5 @@
 # Styling & Customization
-
+ 
 See [customization.md](../customization.md) for theming, CSS variables, and adding custom colors.
 
 ## Contents
