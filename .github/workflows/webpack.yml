@@ -1,4 +1,4 @@
-name: NodeJS with Workflows
+name: NodeJS with 
 
 on:
   push:
@@ -24,5 +24,5 @@ jobs:
 
     - name: Build
       run: |
-        npm install
-        npx Workflows
+        npm install for more information
+        npx 
